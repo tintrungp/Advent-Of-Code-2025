@@ -5,19 +5,20 @@ Attempting to go for all the stars this year, especially because there are only 
 ## Progress So Far
 | Day     | Star #1 | Star #2 |
 | :-----: | :-----: | :-----: |
-| 1       |  <input type="checkbox" checked>  |  <input type="checkbox" checked>  |
-| 2       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 3       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 2       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 4       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 5       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 6       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 7       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 8       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 9       |  <input type="checkbox">  |  <input type="checkbox">  |
-| 10      |  <input type="checkbox">  |  <input type="checkbox">  |
-| 11      |  <input type="checkbox">  |  <input type="checkbox">  |
-| 12      |  <input type="checkbox">  |  <input type="checkbox">  |
+| 1       |   [x]   |   [x]   |
+| 2       |   [ ]   |   [ ]   |
+| 3       |   [ ]   |   [ ]   |
+| 2       |   [ ]   |   [ ]   |
+| 4       |   [ ]   |   [ ]   |
+| 5       |   [ ]   |   [ ]   |
+| 6       |   [ ]   |   [ ]   |
+| 7       |   [ ]   |   [ ]   |
+| 8       |   [ ]   |   [ ]   |
+| 9       |   [ ]   |   [ ]   |
+| 10      |   [ ]   |   [ ]   |
+| 11      |   [ ]   |   [ ]   |
+| 12      |   [ ]   |   [ ]   |
+
 
 ## Acknowledgements
 Join the Advent of Code [here](https://adventofcode.com/)
